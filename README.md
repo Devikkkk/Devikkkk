@@ -4,7 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
-- 👨‍💻 I’m currently working as a Data Science Intern at [Innomatics Research Labs](https://www.innomatics.in/)
+- 📙 I am currently doing M.Sc in Data Science at [Coventry University](https://www.coventry.ac.uk/)
+
+- 👨‍💻 I worked 3 months as a Data Science Intern at [Innomatics Research Labs](https://www.innomatics.in/)
 
 - 🧑‍🎓 I have completed 8 months IBM Certified Data Science Course from [Innomatics Research Labs](https://www.innomatics.in/)
 
