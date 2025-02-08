@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I have completed 8 months IBM Certified Data Science Course from [Innomatics Research Labs](https://www.innomatics.in/)
 
-- 📙 I’m currently learning **Machine Learning and Deep Learning**
+- 📙 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
 
