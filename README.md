@@ -12,7 +12,7 @@
 
 - 📙 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 👯 I’m looking to collaborate on **all topics related to Data Science**
 
